@@ -12,6 +12,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <ConfirmEmailScreen/>
+      <View>Hello World</View>
       <Text style={styles.text}>Happy Exploring!</Text>
       <StatusBar style="auto" />
     </View>
